@@ -9,7 +9,7 @@ Hey there!
 Seasoned Software Engineer with a proven track record in the computer software industry. Proficient in a spectrum of areas including web development, Android application development, database systems, and adept at managing AWS servers.
 
 
-![Visitor Count](https://profile-counter.glitch.me/poonamchauhan229/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/harishv19/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
