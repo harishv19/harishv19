@@ -14,7 +14,7 @@ Seasoned Software Engineer with a proven track record in the computer software i
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">    
-    <img src="https://github-profile-trophy.vercel.app/?username=poonamchauhan229&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=harishv19&column=7"/>
   </a>
 </div>
 Languages and Tools: 
