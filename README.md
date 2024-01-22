@@ -4,16 +4,19 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Harish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harish-kumar-b1b8aa12b/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Poonam-yellow)](https://stackoverflow.com/users/18828160/poonam-chauhan)
 [![Website Badge](https://img.shields.io/badge/WebSite-Poonam-green)](https://poonamchauhan229.github.io/Portfolio_Website/)
+
 Hey there!
 Seasoned Software Engineer with a proven track record in the computer software industry. Proficient in a spectrum of areas including web development, Android application development, database systems, and adept at managing AWS servers.
+
+
 ![Visitor Count](https://profile-counter.glitch.me/poonamchauhan229/count.svg)
 
-//<div>
+<div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">    
     <img src="https://github-profile-trophy.vercel.app/?username=poonamchauhan229&column=7"/>
   </a>
-</div>//
+</div>
 Languages and Tools: 
 
 
