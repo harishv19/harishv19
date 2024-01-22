@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Harish-red)](https://www.youtube.com/@ms.poonamchauhan743)
-[![Linkedin Badge](https://img.shields.io/badge/-Harish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harish-kumar-b1b8aa12b/)]
+![Linkedin Badge](https://img.shields.io/badge/-Harish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harish-kumar-b1b8aa12b/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Harish-yellow)](https://stackoverflow.com/users/18828160/poonam-chauhan)
 [![Website Badge](https://img.shields.io/badge/WebSite-Harish-green)](https://poonamchauhan229.github.io/Portfolio_Website/)
 
